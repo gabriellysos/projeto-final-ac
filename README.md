@@ -6,3 +6,4 @@
 
 Pedro Antonio Souza  - Presente </br>
 Rafael Santos Isidro - Presente </br>
+Gabrielly de Barros Soares - Presente </br>
