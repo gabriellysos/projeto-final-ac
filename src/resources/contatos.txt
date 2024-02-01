@@ -1,0 +1,8 @@
+1;Paulo;Duarte
+2;Paulo;Duarte
+3;Joao;Pedro
+4;Paulo;Duarte
+5;Paulo;Duarte
+6;Paulo;Duarte
+7;Paulo;Duarte
+8;Paulo;Duarte
