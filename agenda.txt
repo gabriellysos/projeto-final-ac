@@ -1,0 +1,6 @@
+1;Victor;Ribeiro;13;934576120
+2;Miriam;Borges;23;93216547
+3;Giovanna;Pinheiros;13;9312564789
+4;Eduarda;Lopes;11;951324878
+5;Pedro;Henrique;11;95657218
+6;Laís;Regis;11;951324879

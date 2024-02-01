@@ -4,5 +4,5 @@
 
 ## Alunos:
 
-Pedro Antonio Souza  - Presente
-Rafael Santos Isidro - Presente
+Pedro Antonio Souza  - Presente </br>
+Rafael Santos Isidro - Presente </br>
